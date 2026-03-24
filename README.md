@@ -1,5 +1,4 @@
 # Customer_behaviour_analysis
-Customer Shopping Behavior Analysis project using PostgreSQL, Python, and Power BI. This project analyzes customer purchase patterns, spending habits, and trends to generate meaningful business insights through data visualization and querying.
 
 📌 Overview
 This project focuses on analyzing customer shopping behavior using data analytics techniques. It involves data loading, cleaning, exploratory data analysis (EDA), SQL querying, and building interactive dashboards to generate meaningful business insights.
@@ -11,6 +10,7 @@ Customer details
 Product information
 Purchase amount
 Date and time of transactions
+
 🛠️ Tools & Technologies
 Python – Data loading, cleaning, and EDA
 PostgreSQL / MySQL / SQL Server – Data querying and analysis
@@ -21,21 +21,26 @@ Gamma – Presentation (PPT) creation
 1. Data Loading
 Imported dataset using Python
 Checked structure and data types
+
 2. Data Cleaning
 Handled missing values
 Removed duplicates
 Standardized formats
+
 3. Exploratory Data Analysis (EDA)
 Analyzed customer spending patterns
 Identified top products and categories
 Observed trends over time
+
 4. SQL Analysis
 Wrote queries to extract insights
 Performed aggregations (SUM, AVG, COUNT)
 Created meaningful business queries
+
 5. Dashboard Creation
 Built interactive dashboards in Power BI
 Visualized key metrics and trends
+
 6. Reporting
 Created a presentation summarizing findings
 Highlighted key insights and recommendations
