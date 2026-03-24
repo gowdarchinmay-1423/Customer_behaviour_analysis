@@ -67,5 +67,6 @@ The Power BI dashboard includes:
 - Found high-performing products and categories  
 - Generated insights to improve business strategies  
 
+![Dashboard](images/dashboard.png)
 ---
 
