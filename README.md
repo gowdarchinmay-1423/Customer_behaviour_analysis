@@ -1,5 +1,7 @@
 # 📊 Customer Behaviour Analysis
 
+![Dashboard](dashboard.png.png)
+
 ## 📌 Overview
 This project focuses on analyzing customer shopping behavior using data analytics techniques.  
 It involves data loading, cleaning, exploratory data analysis (EDA), SQL querying, and building interactive dashboards to generate meaningful business insights.
@@ -66,7 +68,4 @@ The Power BI dashboard includes:
 - Identified customer purchasing patterns  
 - Found high-performing products and categories  
 - Generated insights to improve business strategies  
-
-![Dashboard](images/dashboard.png)
----
 
