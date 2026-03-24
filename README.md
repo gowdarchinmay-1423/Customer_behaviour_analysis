@@ -65,3 +65,8 @@ Generated insights to improve business strategies
 
 🎯 Conclusion
 This project demonstrates how data analytics tools can be used to transform raw data into actionable insights, helping businesses understand customer behavior and make informed decisions.
+
+## 📊 Dashboard Preview
+
+![Dashboard](dashboard.png)
+This project demonstrates how data analytics tools can be used to transform raw data into actionable insights, helping businesses understand customer behavior and make informed decisions.
